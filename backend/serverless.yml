@@ -3,7 +3,6 @@ service: sls-backend
 provider:
   name: aws
   runtime: nodejs10.x
-  profile: youtube
   stage: dev
 
 functions:
