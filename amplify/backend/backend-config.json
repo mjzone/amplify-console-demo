@@ -1,0 +1,8 @@
+{
+	"auth": {
+		"amplifyconsoledemod18b75a1": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
