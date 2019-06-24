@@ -11,7 +11,7 @@ let todos = [
   },
   {
     id: 3,
-    name: "Code"
+    name: "Die"
   }
 ];
 
